@@ -3,9 +3,15 @@
 🚀 Expertise in:
 
 React Native 📱
-PHP 🌐
-C# 💻
 React ⚛️
+Next.js 🌐
+PHP 🌐
+Laravel 🌟
+CodeIgniter 🚀
+C# 💻
+Node.js 🖥️
+Firebase 🔥
+MERN Stack 🥭
 🏢 Currently working at Madina Soft Software House.
 
 Let's build something amazing together! ✨
