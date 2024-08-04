@@ -1,4 +1,11 @@
-Hello This is Ahmed Raza.
-I'am Full stack developer.
-I'am work on React Native,Php,C# and React...!!!
-I'am work at Madina Soft Sotware House
+👋 Hi there! I'm a Full Stack Developer.
+
+🚀 Expertise in:
+
+React Native 📱
+PHP 🌐
+C# 💻
+React ⚛️
+🏢 Currently working at Madina Soft Software House.
+
+Let's build something amazing together! ✨
